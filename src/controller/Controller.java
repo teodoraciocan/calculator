@@ -6,7 +6,7 @@ import java.util.List;
 public class Controller implements Calculator {
 	
 	private String expr;
-	private String teo;
+	
 	private int result;
 	
 
